@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name" translatable="false">CuteMusic</string>
-    <string name="empty" translatable="false" />
+    <string name="empty" translatable="false"/>
     <string name="theme">Tema</string>
     <string name="settings">Ajustes</string>
     <string name="dark_mode">Modo Oscuro</string>
@@ -181,7 +182,6 @@
     <string name="playlist_tag_no_edit">No puedes editar las etiquetas una vez creadas, pero puedes borrarlas</string>
     <string name="already_in_queue">Ya está en la cola</string>
     <string name="already_in_playlist">La pista ya está en la lista de reproducción</string>
-
     <plurals name="tracks">
         <item quantity="one">%d pista</item>
         <item quantity="other">%d pistas</item>
@@ -190,4 +190,5 @@
         <item quantity="one">%d álbum</item>
         <item quantity="other">%d álbumes</item>
     </plurals>
+    <string name="new_rate">Introduce una nueva tasa entre %1$.1f y %2$d</string>
 </resources>
