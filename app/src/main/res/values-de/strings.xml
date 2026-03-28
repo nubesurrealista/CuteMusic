@@ -1,6 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name" translatable="false">CuteMusic</string>
-    <string name="empty" translatable="false" />
     <string name="theme">Theme</string>
     <string name="settings">Settings</string>
     <string name="dark_mode">Dunkel</string>
@@ -177,7 +177,6 @@
     <string name="playlist_tag_no_edit">Tags können nach ihrer Erstellung nicht mehr bearbeitet werden, aber du kannst sie löschen.</string>
     <string name="already_in_queue">Schon in der Warteschlange</string>
     <string name="already_in_playlist">Titel ist schon in dieser Playlist</string>
-
     <plurals name="tracks">
         <item quantity="one">%d Titel</item>
         <item quantity="other">%d Titel</item>
